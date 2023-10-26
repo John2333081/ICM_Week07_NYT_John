@@ -1,5 +1,8 @@
 html,
-body,
+body{
+display: block;
+  margin: 100px;
+}
 div,
 span,
 applet,
